@@ -1,0 +1,13 @@
+{
+  "app_name": "Student Grading System",
+  "version": "1.0.0",
+  "grading": {
+    "pass_marks": 50,
+    "grade_cutoffs": {
+      "A": 80,
+      "B": 70,
+      "C": 60,
+      "D": 50
+    }
+  }
+}
